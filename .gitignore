@@ -1,0 +1,4 @@
+chatbot/__pycache__/*
+chatbot/model_save/*
+chatbot/virtualenv/*
+data/*
